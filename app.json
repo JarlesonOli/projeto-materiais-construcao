@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "projeto-materiais-construcao",
+    "slug": "projeto-materiais-construcao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "projeto-materiais-construcao"
+}
